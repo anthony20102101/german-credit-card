@@ -10,4 +10,4 @@ Both "standard" Ml algorithms and neural networks are tested in the code. The re
 | Random Forest  | 71%      |
 | Neural Network | 78%      |
 
-The goal of the project is purely because it is fun and to increase my familiarity with the pytorch framework.
+This project was done purely because it is fun and to increase my familiarity with the pytorch framework.
